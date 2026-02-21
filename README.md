@@ -13,4 +13,4 @@
 
     Advantages:
         Prevents a single user from monopolizing CPU resources by creating many processes.
-        Ensures fairness in multi-user environments (e.g., servers, shared systems).
+        Ensures fairness in multi-user environments such as servers.
